@@ -10,3 +10,11 @@
 - Anaconda 4.8.5
 - Flask 1.1.1
 
+## Usage
+
+```
+$ git clone https://github.com/hiraikiichi/Markovchain_youtube.git
+$ cd /Markovchain_youtube
+$ python app.py
+```
+
