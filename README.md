@@ -13,8 +13,8 @@
 ## Usage
 
 ```
-$ git clone https://github.com/hiraikiichi/Markovchain_youtube.git
-$ cd /Markovchain_youtube
+$ git clone https://github.com/hiraikiichi/Esystem.git
+$ cd /Esystem
 $ python app.py
 ```
 
